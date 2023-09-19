@@ -1,0 +1,327 @@
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\appsettings.json
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\RpgApi.exe
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\RpgApi.deps.json
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\RpgApi.dll
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\RpgApi.pdb
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Artur_Caio\DS\RpgApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.dll
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\refint\RpgApi.dll
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.pdb
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\Artur_Caio\DS\RpgApi\obj\Debug\net7.0\ref\RpgApi.dll
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.dll
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\refint\RpgApi.dll
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.pdb
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\appsettings.Development.json
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\appsettings.json
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\RpgApi.exe
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\RpgApi.deps.json
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\RpgApi.dll
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\RpgApi.pdb
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Artur_Caio\DS\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.build.json
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.development.json
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\Artur_Caio\DS\AulaRpgApi01\obj\Debug\net7.0\ref\RpgApi.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\refint\RpgApi.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.pdb
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\appsettings.json
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\RpgApi.exe
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\RpgApi.deps.json
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\RpgApi.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\RpgApi.pdb
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+C:\Users\artur\OneDrive\Área de Trabalho\etec\Segundo Semestre\DS\RPGapi01\AulaRpgApi01\obj\Debug\net7.0\ref\RpgApi.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\appsettings.Development.json
+D:\AulaRpgApi01\bin\Debug\net7.0\appsettings.json
+D:\AulaRpgApi01\bin\Debug\net7.0\RpgApi.exe
+D:\AulaRpgApi01\bin\Debug\net7.0\RpgApi.deps.json
+D:\AulaRpgApi01\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\AulaRpgApi01\bin\Debug\net7.0\RpgApi.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\RpgApi.pdb
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.pack.json
+D:\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.build.json
+D:\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.development.json
+D:\AulaRpgApi01\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.dll
+D:\AulaRpgApi01\obj\Debug\net7.0\refint\RpgApi.dll
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.pdb
+D:\AulaRpgApi01\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\AulaRpgApi01\obj\Debug\net7.0\ref\RpgApi.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Azure.Core.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Azure.Identity.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Humanizer.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.CodeDom.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.Memory.Data.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\appsettings.Development.json
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\appsettings.json
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\RpgApi.exe
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\RpgApi.deps.json
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\RpgApi.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\RpgApi.pdb
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Azure.Core.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Azure.Identity.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Humanizer.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.CodeDom.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.build.json
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.development.json
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\refint\RpgApi.dll
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.pdb
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+D:\Artur_Caio\DS\rpgApi\AulaRpgApi01\obj\Debug\net7.0\ref\RpgApi.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\appsettings.json
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\RpgApi.exe
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\RpgApi.deps.json
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\RpgApi.runtimeconfig.json
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\RpgApi.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\RpgApi.pdb
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Humanizer.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\etechas\AulaRpgApi01\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.AssemblyInfo.cs
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgApi.props
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.csproj.CopyComplete
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.dll
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\refint\RpgApi.dll
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.pdb
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\RpgApi.genruntimeconfig.cache
+C:\Users\etechas\AulaRpgApi01\obj\Debug\net7.0\ref\RpgApi.dll
