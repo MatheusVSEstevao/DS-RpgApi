@@ -10,6 +10,7 @@ public class DataContext : DbContext
 
     }
     public DbSet<Personagem> TB_PERSONAGENS {get; set;}
+    public DbSet<Armas> TB_ARMA {get; set;}
 protected override void OnModelCreating(ModelBuilder modelBuilder)
 {
     modelBuilder.Entity<Personagem>().HasData
@@ -22,6 +23,17 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
             new Personagem() { Id = 6, Nome = "Celeborn", PontosVida=100, Forca=21, Defesa=13, Inteligencia=34, Classe=ClasseEnum.Clerigo },
             new Personagem() { Id = 7, Nome = "Radagast", PontosVida=100, Forca=25, Defesa=11, Inteligencia=35, Classe=ClasseEnum.Mago }
      
+    );
+    modelBuilder.Entity<Armas>().HasData
+    (
+        new Armas () { Id = 1, Nome = "Exbalibur", Dano=90  },
+        new Armas () { Id = 2, Nome = "AWP", Dano=80  },
+        new Armas () { Id = 3, Nome = "Cacetete", Dano=25  },
+        new Armas () { Id = 4, Nome = "Espada", Dano=50  },
+        new Armas () { Id = 5, Nome = "Espadao", Dano=65  },
+        new Armas () { Id = 6, Nome = "Arco", Dano=40  },
+        new Armas () { Id = 7, Nome = "Chinelo de Mãe", Dano=100  }
+
     );
 }
 
