@@ -24,6 +24,21 @@ namespace RpgApi.Controllers
 
 [HttpGet("{id}")]
 public async Task<IActionResult> GetSingle(int id)
+{
+    try
+        {
+            Armas a = await _context.TB_ARMA
+                .FirstOrDefaultAsync(aBusca => aBusca.Id == id);
+
+            return Ok(a);
+
+        }
+        catch(System.Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+
+}
 
 [HttpGet("GetAll")]
 public async Task<IActionResult> Get()
