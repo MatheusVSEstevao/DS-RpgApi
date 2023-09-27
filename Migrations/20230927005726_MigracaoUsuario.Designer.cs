@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RpgApi.Data;
 
@@ -11,9 +12,11 @@ using RpgApi.Data;
 namespace RpgApi.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20230927005726_MigracaoUsuario")]
+    partial class MigracaoUsuario
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -37,13 +40,7 @@ namespace RpgApi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PersonagemId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
-
-                    b.HasIndex("PersonagemId")
-                        .IsUnique();
 
                     b.ToTable("TB_ARMA");
 
@@ -52,50 +49,43 @@ namespace RpgApi.Migrations
                         {
                             Id = 1,
                             Dano = 90,
-                            Nome = "Exbalibur",
-                            PersonagemId = 1
+                            Nome = "Exbalibur"
                         },
                         new
                         {
                             Id = 2,
                             Dano = 80,
-                            Nome = "Cetro",
-                            PersonagemId = 2
+                            Nome = "Cetro"
                         },
                         new
                         {
                             Id = 3,
                             Dano = 25,
-                            Nome = "Cacetete",
-                            PersonagemId = 3
+                            Nome = "Cacetete"
                         },
                         new
                         {
                             Id = 4,
                             Dano = 50,
-                            Nome = "Espada",
-                            PersonagemId = 4
+                            Nome = "Espada"
                         },
                         new
                         {
                             Id = 5,
                             Dano = 65,
-                            Nome = "Foice",
-                            PersonagemId = 5
+                            Nome = "Foice"
                         },
                         new
                         {
                             Id = 6,
                             Dano = 40,
-                            Nome = "Arco",
-                            PersonagemId = 6
+                            Nome = "Arco"
                         },
                         new
                         {
                             Id = 7,
                             Dano = 100,
-                            Nome = "Chinelo de Mãe",
-                            PersonagemId = 7
+                            Nome = "Chinelo de Mãe"
                         });
                 });
 
@@ -264,22 +254,11 @@ namespace RpgApi.Migrations
                             Email = "seuEmail@gmail.com",
                             Latitude = -23.520024100000001,
                             Longitude = -46.596497999999997,
-                            PasswordHash = new byte[] { 75, 6, 70, 38, 94, 54, 185, 20, 5, 27, 56, 17, 150, 115, 97, 24, 93, 156, 55, 147, 60, 169, 170, 183, 203, 73, 175, 92, 84, 27, 233, 38, 56, 253, 120, 111, 93, 234, 122, 236, 242, 132, 158, 190, 211, 41, 175, 131, 26, 157, 221, 192, 201, 116, 132, 234, 78, 105, 45, 61, 200, 132, 217, 17 },
-                            PasswordSalt = new byte[] { 20, 59, 191, 100, 180, 9, 68, 215, 249, 211, 245, 254, 198, 98, 158, 197, 87, 146, 132, 215, 228, 229, 225, 112, 220, 217, 102, 85, 222, 174, 235, 132, 235, 133, 126, 87, 37, 42, 241, 44, 56, 133, 106, 254, 99, 34, 152, 249, 62, 151, 236, 31, 60, 200, 177, 203, 235, 60, 46, 182, 33, 26, 197, 42, 165, 50, 90, 91, 213, 113, 160, 103, 44, 84, 54, 70, 161, 113, 214, 255, 173, 82, 241, 19, 27, 17, 80, 156, 10, 54, 235, 215, 177, 16, 190, 115, 18, 142, 153, 203, 107, 245, 226, 26, 101, 88, 206, 32, 15, 6, 28, 203, 126, 110, 114, 126, 143, 192, 166, 37, 163, 160, 202, 223, 158, 30, 36, 155 },
+                            PasswordHash = new byte[] { 113, 25, 171, 232, 59, 145, 6, 52, 115, 9, 129, 109, 117, 227, 113, 114, 209, 13, 147, 201, 246, 233, 45, 8, 198, 76, 211, 60, 47, 31, 70, 237, 166, 201, 87, 174, 164, 83, 251, 83, 17, 119, 111, 131, 55, 102, 126, 46, 113, 50, 67, 11, 136, 207, 69, 150, 163, 30, 107, 140, 134, 132, 107, 199 },
+                            PasswordSalt = new byte[] { 237, 82, 124, 160, 67, 241, 41, 7, 55, 255, 90, 78, 230, 227, 159, 127, 72, 200, 40, 208, 56, 9, 136, 23, 118, 139, 147, 87, 243, 41, 147, 53, 142, 237, 168, 205, 80, 90, 151, 223, 59, 239, 100, 40, 255, 240, 108, 34, 216, 206, 236, 195, 30, 12, 107, 243, 87, 93, 169, 66, 179, 218, 57, 89, 56, 210, 218, 234, 21, 7, 12, 244, 65, 111, 187, 50, 230, 180, 108, 130, 148, 238, 199, 104, 229, 243, 134, 239, 130, 225, 99, 169, 118, 150, 41, 72, 55, 68, 133, 242, 189, 99, 209, 158, 159, 244, 97, 0, 42, 179, 96, 20, 181, 60, 209, 156, 235, 54, 207, 229, 78, 250, 82, 121, 172, 129, 98, 162 },
                             Perfil = "Admin",
                             Username = "UsuarioAdmin"
                         });
-                });
-
-            modelBuilder.Entity("RpgApi.models.Armas", b =>
-                {
-                    b.HasOne("RpgApi.models.Personagem", "Personagem")
-                        .WithOne("Armas")
-                        .HasForeignKey("RpgApi.models.Armas", "PersonagemId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Personagem");
                 });
 
             modelBuilder.Entity("RpgApi.models.Personagem", b =>
@@ -289,12 +268,6 @@ namespace RpgApi.Migrations
                         .HasForeignKey("UsuarioId");
 
                     b.Navigation("Usuario");
-                });
-
-            modelBuilder.Entity("RpgApi.models.Personagem", b =>
-                {
-                    b.Navigation("Armas")
-                        .IsRequired();
                 });
 
             modelBuilder.Entity("RpgApi.models.Usuario", b =>
